@@ -2,4 +2,4 @@
 
 Inconvenience!
 
-![inconvenience]iolar_eclipse.gif)
+![inconvenience]solar_eclipse.gif)
