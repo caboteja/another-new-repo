@@ -1,1 +1,3 @@
-#saying hello and this is another repo.
+#saying hello and this is another repo
+
+![](./solar_eclipse.gif)
