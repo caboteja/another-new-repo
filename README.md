@@ -1,3 +1,6 @@
 #saying hello and this is another repo
 
-![](./solar_eclipse.gif)
+SOLAR Eclipse. OOOOOHHHH...!!!
+
+![This is an amazing phenomenon :)](./solar_eclipse.gif
+)
