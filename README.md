@@ -1,5 +1,6 @@
 #saying hello and this is another repo
 
-Inconvenience!
+SOLAR Eclipse. OOOOOHHHH...!!V!
 
-![inconvenience]solar_eclipse.gif)
+![This is an amazing phenomenon :)](./solar_eclipse.gif
+)
